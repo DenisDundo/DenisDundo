@@ -88,3 +88,15 @@
 --- -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DenisDundo)
+
+
+---
+
+### Тестовые артефакты
+
+
+- [Web shop Testing](https://github.com/DenisDundo/web) – Исследовательское и функциональное тестирование Веб приложения
+- [API Testing](https://github.com/DenisDundo/api) - REST и SOAP в Postman
+- [MySQL,MongoDB](https://github.com/DenisDundo/database) - запросы и работа с БД
+- [Android App Testing](https://github.com/DenisDundo/mobile) - тестирование мобильного приложения 
+- [Bash,Git](https://github.com/DenisDundo/git_bash) - работа с базовыми командами bash и git
