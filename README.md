@@ -6,7 +6,7 @@
 
 Я — тестировщик программного обеспечения с опытом в обеспечении качества и стабильности продуктов. Моя основная задача — выявлять ошибки, проверять соответствие функциональности требованиям и обеспечивать высокий уровень качества выпускаемой продукции.
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@testdenisdundo-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/testdenisdundo/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:testdenisdundo@gmail.com)
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@testdenisdundo-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/denis-dundo-625303374/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:testdenisdundo@gmail.com)
 
 ---
 
