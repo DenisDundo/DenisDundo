@@ -8,7 +8,8 @@
 
 ---
 
-[Резюме](https://github.com/user-attachments/files/21293000/default.pdf) - Вы можете ознакомиться с моим резюме.
+Резюме 
+[Дундо Денис_resume.pdf](https://github.com/user-attachments/files/21300368/_resume.pdf)- Вы можете ознакомиться с моим резюме.
 [Рекомендация](https://github.com/user-attachments/files/21293531/default.pdf) - Рекомендательно письмо.
 
 - 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@denisdundo-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/denis-dundo-625303374/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:testdenisdundo@gmail.com)
